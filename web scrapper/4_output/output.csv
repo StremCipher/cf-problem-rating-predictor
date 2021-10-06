@@ -1,0 +1,313 @@
+#,When,Who,Problem,Lang,Verdict,Time,Memory
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
+116815110,May/20/2021 18:47,alya_wow,D - MEX Tree,GNU C++17 (64),Accepted,202 ms,38200 KB
+116803777,May/20/2021 18:30,alya_wow,E - Partition Game,GNU C++17 (64),Accepted,1809 ms,8800 KB
+116801705,May/20/2021 18:27,alya_wow,E - Partition Game,GNU C++17 (64),Skipped,2605 ms,7900 KB
+116779583,May/20/2021 18:01,alya_wow,B2 - Palindrome Game (hard version),GNU C++17 (64),Accepted,31 ms,100 KB
+116768817,May/20/2021 17:50,alya_wow,C - Sequence Pair Weight,GNU C++17 (64),Accepted,93 ms,9900 KB
+116758740,May/20/2021 17:42,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Accepted,31 ms,100 KB
+116754272,May/20/2021 17:38,alya_wow,B1 - Palindrome Game (easy version),GNU C++17 (64),Wrong answer on pretest 2,0 ms,0 KB
+116752292,May/20/2021 17:36,alya_wow,A - And Then There Were K,GNU C++17 (64),Accepted,31 ms,0 KB
