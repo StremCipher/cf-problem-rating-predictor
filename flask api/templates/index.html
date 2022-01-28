@@ -9,7 +9,18 @@
 </head>
 
 <body>
-    <h1>index page wala</h1>
+    <form method="post">
+        <label for="cars">Choose the contest:</label>
+        <select name="cars" id="cars">
+            <option value="lastcontest">Codeforces Round #749 (Div. 1 + Div. 2, based on Technocup 2022 Elimination
+                Round 1)</option>
+        </select>
+        <br><br>
+        <input type="submit">
+    </form>
+    <p>
+        {{rating}}
+    </p>
 </body>
 
 </html>
